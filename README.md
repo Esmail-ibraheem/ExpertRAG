@@ -2,7 +2,8 @@
 multi-RAG Panel system: Agentic-RAG, Graph-RAG, Advanced-RAG, VLM, LLM, all RAG and customizable RAG in one place= RAG engine
 
 
-![rag](https://github.com/user-attachments/assets/362f65f8-319c-4482-88e3-f5e8ca832266)
+![rag](https://github.com/user-attachments/assets/b27b6c37-6c42-4858-986b-1b45d8e0d395)
+
 
 
 
