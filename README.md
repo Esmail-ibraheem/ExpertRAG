@@ -1,3 +1,4 @@
-# ExpertRAG: Mixture of Experts (MoE) + RAG
+# ExpertRAG: Efficient RAG with Mixture of Experts - Optimizing Context Retrieval for Adaptive LLM Responses
 
-## **developing Process**
+
+## **developing Process ...**
