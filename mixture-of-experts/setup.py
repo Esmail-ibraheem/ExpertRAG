@@ -4,7 +4,7 @@ setup(
   name = 'mixture-of-experts',
   packages = find_packages(),
   version = '0.2.3',
-  license='MIT',
+  license='MIT', 
   description = 'Sparsely-Gated Mixture of Experts for Pytorch',
   author = 'Esmail Gumaan',
   author_email = 'esm.agumaan@gmail.com',
