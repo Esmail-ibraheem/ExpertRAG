@@ -6,9 +6,9 @@ setup(
   version = '0.2.3',
   license='MIT',
   description = 'Sparsely-Gated Mixture of Experts for Pytorch',
-  author = 'Phil Wang',
-  author_email = 'lucidrains@gmail.com',
-  url = 'https://github.com/lucidrains/mixture-of-experts',
+  author = 'Esmail Gumaan',
+  author_email = 'esm.agumaan@gmail.com',
+  url = 'https://github.com/Esmail-ibraheem/ExpertRAG',
   keywords = ['artificial intelligence', 'deep learning', 'transformers', 'mixture of experts'],
   install_requires=[
       'torch'
